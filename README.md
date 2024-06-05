@@ -1,6 +1,6 @@
 # Football Information Application
 
-## An application made using Jetpack Compose and the Room database for retreiving football related information
+## An android application made using Jetpack Compose and the Room database for retreiving football related information
 
 There are 4 components of the application. They are,
 * Add a list of hardcoded leagues and their information to the database
